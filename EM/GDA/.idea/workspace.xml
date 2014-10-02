@@ -1,0 +1,865 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="50d72cb7-fc63-4e3f-b61b-8a9a8a9dfe1b" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$USER_HOME$/machinelearning/em-git/gmm/src/gmm.py" afterPath="$USER_HOME$/machinelearning/em-git/gmm/src/gmm.py" />
+    </list>
+    <ignored path="GDA.iws" />
+    <ignored path=".idea/workspace.xml" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager" flattened_view="true" show_ignored="false" />
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="DaemonCodeAnalyzer">
+    <disable_hints />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FavoritesManager">
+    <favorites_list name="GDA" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name="em2g.py" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$USER_HOME$/PycharmProjects/email-checker/em2g.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="2430">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="helper.py" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$USER_HOME$/PycharmProjects/email-checker/helper.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="286" column="8" selection-start="9137" selection-end="9137" vertical-scroll-proportion="0.0" vertical-offset="5148" max-vertical-offset="7470">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="EStep.py" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../EM/EStep.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="93" column="0" selection-start="2871" selection-end="2901" vertical-scroll-proportion="0.0" vertical-offset="1674" max-vertical-offset="1998">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="GaussianAnalysis.py" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/GaussianAnalysis.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="159" column="8" selection-start="5646" selection-end="5879" vertical-scroll-proportion="0.0" vertical-offset="2862" max-vertical-offset="3276">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="tenfold.py" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../../../General_Modules/tenfold.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="49" column="25" selection-start="1780" selection-end="1780" vertical-scroll-proportion="0.0" vertical-offset="882" max-vertical-offset="1098">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="accuracy.py" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/../../../General_Modules/accuracy.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="65" column="8" selection-start="1927" selection-end="1927" vertical-scroll-proportion="0.0" vertical-offset="1170" max-vertical-offset="1278">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="em.py" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$USER_HOME$/PycharmProjects/email-checker/em.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="11" column="31" selection-start="295" selection-end="295" vertical-scroll-proportion="0.0" vertical-offset="198" max-vertical-offset="3582">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="test_em.py" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../EM/test_em.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="51" column="0" selection-start="1939" selection-end="1939" vertical-scroll-proportion="0.0" vertical-offset="918" max-vertical-offset="3312">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindManager">
+    <FindUsagesManager>
+      <setting name="OPEN_NEW_TAB" value="false" />
+    </FindUsagesManager>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$USER_HOME$/machinelearning/em-git/gmm" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="changedFiles">
+      <list>
+        <option value="$PROJECT_DIR$/tenfold.py" />
+        <option value="$PROJECT_DIR$/normalize.py" />
+        <option value="$PROJECT_DIR$/GDATest.py" />
+        <option value="$PROJECT_DIR$/../../General_Modules/tenfold.py" />
+        <option value="$PROJECT_DIR$/../../General_Modules/binarizer.py" />
+        <option value="$PROJECT_DIR$/../NaiveBayes/FeatureModel.py" />
+        <option value="$PROJECT_DIR$/../NaiveBayes/NBTest.py" />
+        <option value="$PROJECT_DIR$/../../ir/Indexer.py" />
+        <option value="$PROJECT_DIR$/../../ir/read_index.py" />
+        <option value="$PROJECT_DIR$/../../General_Modules/accuracy.py" />
+        <option value="$PROJECT_DIR$/../../ir/Tokenizer_up.py" />
+        <option value="$PROJECT_DIR$/../../General_Modules/normalize.py" />
+        <option value="$PROJECT_DIR$/../NaiveBayes/BernoulliFeatureModel.py" />
+        <option value="$PROJECT_DIR$/../NaiveBayes/GaussianFeatureModel.py" />
+        <option value="$PROJECT_DIR$/../NaiveBayes/Histogram.py" />
+        <option value="$PROJECT_DIR$/../../../General_Modules/normalize.py" />
+        <option value="$PROJECT_DIR$/../NaiveBayes/HistogramFeatureModel.py" />
+        <option value="$USER_HOME$/PycharmProjects/email-checker/sendEmail.py" />
+        <option value="$USER_HOME$/PycharmProjects/email-checker/main2.py" />
+        <option value="$USER_HOME$/PycharmProjects/email-checker/em2g.py" />
+        <option value="$PROJECT_DIR$/../EM/MStep.py" />
+        <option value="$PROJECT_DIR$/../EM/TwoGaussian.py" />
+        <option value="$USER_HOME$/PycharmProjects/email-checker/ReadFromUSB.py" />
+        <option value="$PROJECT_DIR$/../EM/ThreeGaussian.py" />
+        <option value="$PROJECT_DIR$/../../../General_Modules/tenfold.py" />
+        <option value="$PROJECT_DIR$/../NaiveBayes/NaiveBayes.py" />
+        <option value="$USER_HOME$/PycharmProjects/email-checker/helper.py" />
+        <option value="$PROJECT_DIR$/../EM/EMAlgo.py" />
+        <option value="$USER_HOME$/machinelearning/em-git/gmm/src/gmm.py" />
+        <option value="$USER_HOME$/PycharmProjects/email-checker/em.py" />
+        <option value="$PROJECT_DIR$/../../../General_Modules/binarizer.py" />
+        <option value="$PROJECT_DIR$/../EM/EStep.py" />
+        <option value="$PROJECT_DIR$/GaussianAnalysis.py" />
+        <option value="$PROJECT_DIR$/../EM/test_em.py" />
+        <option value="$PROJECT_DIR$/../../../General_Modules/accuracy.py" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="65" />
+    <option name="y" value="24" />
+    <option name="width" value="1303" />
+    <option name="height" value="744" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <OptionsSetting value="true" id="Add" />
+    <OptionsSetting value="true" id="Remove" />
+    <OptionsSetting value="true" id="Checkout" />
+    <OptionsSetting value="true" id="Update" />
+    <OptionsSetting value="true" id="Status" />
+    <OptionsSetting value="true" id="Edit" />
+    <ConfirmationsSetting value="0" id="Add" />
+    <ConfirmationsSetting value="0" id="Remove" />
+  </component>
+  <component name="ProjectReloadState">
+    <option name="STATE" value="0" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1" splitterProportion="0.5">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="GDA" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="GDA" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="email-checker" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="GDA" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="NaiveBayes" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="GDA" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="EM" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="GDA" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="General_Modules" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="GDA" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="GDA" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../HW4/AdaBoost" />
+    <property name="FullScreen" value="false" />
+    <property name="recentsLimit" value="5" />
+    <property name="SearchEverywhereHistory" value="" />
+    <property name="options.lastSelected" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+    <property name="options.splitter.main.proportions" value="0.3" />
+    <property name="options.splitter.details.proportions" value="0.2" />
+    <property name="options.searchVisible" value="true" />
+    <property name="LayoutCode.rearrangeEntriesPython" value="false" />
+  </component>
+  <component name="PyConsoleOptionsProvider">
+    <option name="myPythonConsoleState">
+      <console-settings />
+    </option>
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$USER_HOME$/PycharmProjects/email-checker" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/../../General_Modules" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.EStep">
+    <configuration default="false" name="EStep" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../EM" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="EM" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../EM/EStep.py" />
+      <option name="PARAMETERS" value="" />
+      <RunnerSettings RunnerId="PyDebugRunner" />
+      <RunnerSettings RunnerId="PythonRunner" />
+      <ConfigurationWrapper RunnerId="PyDebugRunner" />
+      <ConfigurationWrapper RunnerId="PythonRunner" />
+      <method />
+    </configuration>
+    <configuration default="false" name="main2" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$USER_HOME$/PycharmProjects/email-checker" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="email-checker" />
+      <option name="SCRIPT_NAME" value="$USER_HOME$/PycharmProjects/email-checker/main2.py" />
+      <option name="PARAMETERS" value="" />
+      <RunnerSettings RunnerId="PythonRunner" />
+      <ConfigurationWrapper RunnerId="PythonRunner" />
+      <method />
+    </configuration>
+    <configuration default="false" name="gmm" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$USER_HOME$/machinelearning/em-git/gmm/src" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="gmm" />
+      <option name="SCRIPT_NAME" value="$USER_HOME$/machinelearning/em-git/gmm/src/gmm.py" />
+      <option name="PARAMETERS" value="" />
+      <RunnerSettings RunnerId="PythonRunner" />
+      <ConfigurationWrapper RunnerId="PythonRunner" />
+      <method />
+    </configuration>
+    <configuration default="false" name="em" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$USER_HOME$/PycharmProjects/email-checker" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="email-checker" />
+      <option name="SCRIPT_NAME" value="$USER_HOME$/PycharmProjects/email-checker/em.py" />
+      <option name="PARAMETERS" value="" />
+      <RunnerSettings RunnerId="PythonRunner" />
+      <ConfigurationWrapper RunnerId="PythonRunner" />
+      <method />
+    </configuration>
+    <configuration default="false" name="GDATest" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="GDA" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/GDATest.py" />
+      <option name="PARAMETERS" value="" />
+      <RunnerSettings RunnerId="PythonRunner" />
+      <ConfigurationWrapper RunnerId="PythonRunner" />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="py.test">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="GDA" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <option name="testToRun" value="" />
+      <option name="keywords" value="" />
+      <option name="params" value="" />
+      <option name="USE_PARAM" value="false" />
+      <option name="USE_KEYWORD" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Nosetests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="GDA" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <option name="PARAMS" value="" />
+      <option name="USE_PARAM" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="PythonConfigurationType" factoryName="Python">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="GDA" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="PARAMETERS" value="" />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Unittests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="GDA" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <option name="PUREUNITTEST" value="true" />
+      <option name="PARAMS" value="" />
+      <option name="USE_PARAM" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Doctests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="GDA" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Attests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="GDA" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <method />
+    </configuration>
+    <list size="5">
+      <item index="0" class="java.lang.String" itemvalue="Python.EStep" />
+      <item index="1" class="java.lang.String" itemvalue="Python.main2" />
+      <item index="2" class="java.lang.String" itemvalue="Python.gmm" />
+      <item index="3" class="java.lang.String" itemvalue="Python.em" />
+      <item index="4" class="java.lang.String" itemvalue="Python.GDATest" />
+    </list>
+    <recent_temporary>
+      <list size="5">
+        <item index="0" class="java.lang.String" itemvalue="Python.EStep" />
+        <item index="1" class="java.lang.String" itemvalue="Python.GDATest" />
+        <item index="2" class="java.lang.String" itemvalue="Python.em" />
+        <item index="3" class="java.lang.String" itemvalue="Python.gmm" />
+        <item index="4" class="java.lang.String" itemvalue="Python.main2" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="50d72cb7-fc63-4e3f-b61b-8a9a8a9dfe1b" name="Default" comment="" />
+      <created>1393033980910</created>
+      <updated>1393033980910</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="TodoView" selected-index="0">
+    <todo-panel id="selected-file">
+      <are-packages-shown value="false" />
+      <are-modules-shown value="false" />
+      <flatten-packages value="false" />
+      <is-autoscroll-to-source value="false" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="false" />
+      <are-modules-shown value="false" />
+      <flatten-packages value="false" />
+      <is-autoscroll-to-source value="false" />
+    </todo-panel>
+    <todo-panel id="default-changelist">
+      <are-packages-shown value="false" />
+      <are-modules-shown value="false" />
+      <flatten-packages value="false" />
+      <is-autoscroll-to-source value="false" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="65" y="24" width="1303" height="744" extended-state="0" />
+    <editor active="false" />
+    <layout>
+      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3271605" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3279483" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.20344289" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.546042" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.996769" sideWeight="0.5" order="8" side_tool="true" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.44426495" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3279483" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+    </layout>
+  </component>
+  <component name="Vcs.Log.UiProperties">
+    <option name="RECENTLY_FILTERED_USER_GROUPS">
+      <collection />
+    </option>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="myTodoPanelSettings">
+      <TodoPanelSettings />
+    </option>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="python-line">
+          <url>file://$PROJECT_DIR$/../EM/EMAlgo.py</url>
+          <line>216</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="python-line">
+          <url>file://$PROJECT_DIR$/../EM/EMAlgo.py</url>
+          <line>222</line>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+      </breakpoints>
+      <option name="time" value="6" />
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/../NaiveBayes/NaiveBayes.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="90" column="58" selection-start="2979" selection-end="3004" vertical-scroll-proportion="0.0" vertical-offset="1620" max-vertical-offset="2970" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/GaussianAnalysis.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="10" column="61" selection-start="164" selection-end="305" vertical-scroll-proportion="0.0" vertical-offset="180" max-vertical-offset="2988">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/GaussianAnalysis.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="10" column="61" selection-start="164" selection-end="305" vertical-scroll-proportion="0.0" vertical-offset="180" max-vertical-offset="2988">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../NaiveBayes/NBTest.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="4" column="20" selection-start="95" selection-end="95" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="180" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../NaiveBayes/NaiveBayes.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="90" column="8" selection-start="2954" selection-end="2954" vertical-scroll-proportion="0.0" vertical-offset="1514" max-vertical-offset="2970" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/GaussianAnalysis.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="87" column="0" selection-start="2794" selection-end="3068" vertical-scroll-proportion="0.0" vertical-offset="1280" max-vertical-offset="2988" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../NaiveBayes/GaussianFeatureModel.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="22" column="38" selection-start="708" selection-end="708" vertical-scroll-proportion="0.0" vertical-offset="288" max-vertical-offset="972" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../NaiveBayes/BernoulliFeatureModel.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="8" column="8" selection-start="119" selection-end="210" vertical-scroll-proportion="0.0" vertical-offset="144" max-vertical-offset="1188" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/GaussianAnalysis.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="43" column="33" selection-start="1411" selection-end="1444" vertical-scroll-proportion="0.0" vertical-offset="2223" max-vertical-offset="2844" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/GDATest.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="4" column="13" selection-start="78" selection-end="78" vertical-scroll-proportion="0.0" vertical-offset="72" max-vertical-offset="180" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/GaussianAnalysis.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="77" column="16" selection-start="2400" selection-end="2400" vertical-scroll-proportion="0.0" vertical-offset="930" max-vertical-offset="1548" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/GaussianAnalysis.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="5" column="0" selection-start="73" selection-end="73" vertical-scroll-proportion="0.0" vertical-offset="36" max-vertical-offset="972" />
+      </provider>
+    </entry>
+    <entry file="file:///usr/lib/python2.7/dist-packages/numpy/matrixlib/defmatrix.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="260" column="0" selection-start="7016" selection-end="7016" vertical-scroll-proportion="0.33255813" vertical-offset="4483" max-vertical-offset="19386" />
+      </provider>
+    </entry>
+    <entry file="file:///usr/lib/python2.7/dist-packages/numpy/matrixlib/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="430" />
+      </provider>
+    </entry>
+    <entry file="file:///usr/lib/python2.7/random.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="882" column="0" selection-start="31614" selection-end="31614" vertical-scroll-proportion="0.33333334" vertical-offset="15544" max-vertical-offset="16290" />
+      </provider>
+    </entry>
+    <entry file="file:///usr/lib/python2.7/dist-packages/numpy/core/fromnumeric.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="2298" column="4" selection-start="64677" selection-end="64677" vertical-scroll-proportion="0.0" vertical-offset="41337" max-vertical-offset="46170" />
+      </provider>
+    </entry>
+    <entry file="file:///usr/local/lib/python2.7/dist-packages/sklearn/utils/validation.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="26" column="0" selection-start="654" selection-end="654" vertical-scroll-proportion="0.33333334" vertical-offset="206" max-vertical-offset="5346" />
+      </provider>
+    </entry>
+    <entry file="file:///usr/local/lib/python2.7/dist-packages/sklearn/preprocessing/data.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="525" column="4" selection-start="18221" selection-end="18221" vertical-scroll-proportion="-1.3140244" vertical-offset="9575" max-vertical-offset="17586" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../../General_Modules/normalize.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="10" column="44" selection-start="266" selection-end="266" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="414" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../NaiveBayes/BernoulliFeatureModel.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="38" column="39" selection-start="1323" selection-end="1323" vertical-scroll-proportion="0.0" vertical-offset="216" max-vertical-offset="1206" />
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/machinelearning/em-git/gmm/src/randcov.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="564" />
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/machinelearning/em-git/gmm/src/test_func.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="564" />
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/machinelearning/em-git/gmm/src/test_gmm.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="702" max-vertical-offset="1440" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../NaiveBayes/HistogramFeatureModel.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="70" column="49" selection-start="2910" selection-end="2910" vertical-scroll-proportion="0.0" vertical-offset="1134" max-vertical-offset="2124" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../NaiveBayes/GaussianFeatureModel.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="28" column="0" selection-start="940" selection-end="940" vertical-scroll-proportion="0.0" vertical-offset="185" max-vertical-offset="1044" />
+      </provider>
+    </entry>
+    <entry file="file:///usr/share/pyshared/numpy/core/numeric.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="1692" column="0" selection-start="49078" selection-end="49078" vertical-scroll-proportion="0.0" vertical-offset="30243" max-vertical-offset="46530" />
+      </provider>
+    </entry>
+    <entry file="file:///usr/share/pyshared/numpy/matrixlib/defmatrix.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="327" column="0" selection-start="8899" selection-end="8899" vertical-scroll-proportion="0.0" vertical-offset="5805" max-vertical-offset="19548" />
+      </provider>
+    </entry>
+    <entry file="file:///usr/share/pyshared/numpy/core/fromnumeric.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="1505" column="0" selection-start="44670" selection-end="44670" vertical-scroll-proportion="0.26602563" vertical-offset="26935" max-vertical-offset="48510" />
+      </provider>
+    </entry>
+    <entry file="file:///usr/lib/python2.7/dist-packages/numpy/linalg/linalg.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="1702" column="0" selection-start="52780" selection-end="52780" vertical-scroll-proportion="0.33333334" vertical-offset="30388" max-vertical-offset="36162" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../../../Books/Pradep_Panchatcharam_ML_A5/EM3.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="5" column="0" selection-start="54" selection-end="54" vertical-scroll-proportion="0.15280136" vertical-offset="0" max-vertical-offset="2394" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../EM/TwoGaussian.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="118" column="99" selection-start="4680" selection-end="4680" vertical-scroll-proportion="-0.05732484" vertical-offset="2124" max-vertical-offset="2808" />
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/PycharmProjects/email-checker/main2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="4" column="12" selection-start="65" selection-end="65" vertical-scroll-proportion="-0.4347826" vertical-offset="192" max-vertical-offset="576" />
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/PycharmProjects/email-checker/main.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="-2.3731885" vertical-offset="655" max-vertical-offset="1206" />
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/machinelearning/em-git/gmm/src/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="289" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../NaiveBayes/NBTest.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="4" column="20" selection-start="95" selection-end="95" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="180" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../NaiveBayes/NaiveBayes.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="14" column="90" selection-start="379" selection-end="429" vertical-scroll-proportion="0.7452229" vertical-offset="0" max-vertical-offset="3204" />
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/PycharmProjects/email-checker/ReadFromUSB.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="9" column="26" selection-start="315" selection-end="315" vertical-scroll-proportion="0.0" vertical-offset="162" max-vertical-offset="2592" />
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/PycharmProjects/email-checker/sendEmail.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="55" column="51" selection-start="2415" selection-end="2415" vertical-scroll-proportion="0.7446808" vertical-offset="552" max-vertical-offset="1116" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/GDATest.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="4" column="13" selection-start="78" selection-end="78" vertical-scroll-proportion="0.22929937" vertical-offset="0" max-vertical-offset="314" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../EM/ThreeGaussian.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="59" column="25" selection-start="2336" selection-end="2336" vertical-scroll-proportion="0.41860464" vertical-offset="918" max-vertical-offset="2952" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../EM/EMAlgo.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="243" column="0" selection-start="9922" selection-end="9922" vertical-scroll-proportion="0.0" vertical-offset="4266" max-vertical-offset="5202">
+          <folding>
+            <element signature="e#21#39#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../EM/test_em.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="51" column="0" selection-start="1939" selection-end="1939" vertical-scroll-proportion="0.0" vertical-offset="774" max-vertical-offset="3294">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../../General_Modules/binarizer.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="4" column="46" selection-start="145" selection-end="145" vertical-scroll-proportion="0.22929937" vertical-offset="0" max-vertical-offset="314" />
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/PycharmProjects/email-checker/em.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="11" column="31" selection-start="295" selection-end="295" vertical-scroll-proportion="0.0" vertical-offset="54" max-vertical-offset="3546">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/PycharmProjects/email-checker/em2g.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="108">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/machinelearning/em-git/gmm/src/gmm.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="205" column="0" selection-start="6216" selection-end="6242" vertical-scroll-proportion="0.74840766" vertical-offset="3383" max-vertical-offset="4536" />
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/PycharmProjects/email-checker/helper.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="286" column="8" selection-start="9137" selection-end="9137" vertical-scroll-proportion="0.0" vertical-offset="7133" max-vertical-offset="7434">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../EM/EStep.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="93" column="0" selection-start="2871" selection-end="2901" vertical-scroll-proportion="0.0" vertical-offset="617" max-vertical-offset="1908">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/GaussianAnalysis.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="159" column="8" selection-start="5646" selection-end="5879" vertical-scroll-proportion="0.0" vertical-offset="2561" max-vertical-offset="3258">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../../General_Modules/tenfold.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="49" column="25" selection-start="1780" selection-end="1780" vertical-scroll-proportion="0.0" vertical-offset="486" max-vertical-offset="1080">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../../General_Modules/accuracy.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="65" column="8" selection-start="1927" selection-end="1927" vertical-scroll-proportion="0.0" vertical-offset="1170" max-vertical-offset="1278">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
+

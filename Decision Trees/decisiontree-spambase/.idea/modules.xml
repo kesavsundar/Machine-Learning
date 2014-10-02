@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$USER_HOME$/Grading/Algorithms/ShapeChecker/.idea/ShapeChecker.iml" filepath="$USER_HOME$/Grading/Algorithms/ShapeChecker/.idea/ShapeChecker.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/decisiontree-spambase.iml" filepath="$PROJECT_DIR$/.idea/decisiontree-spambase.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../q2/linear-regression/.idea/linear-regression.iml" filepath="$PROJECT_DIR$/../../q2/linear-regression/.idea/linear-regression.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../regressiontree-housing/.idea/regressiontree-housing.iml" filepath="$PROJECT_DIR$/../regressiontree-housing/.idea/regressiontree-housing.iml" />
+    </modules>
+  </component>
+</project>
+

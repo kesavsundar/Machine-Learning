@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../EM/.idea/EM.iml" filepath="$PROJECT_DIR$/../EM/.idea/EM.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/GDA.iml" filepath="$PROJECT_DIR$/.idea/GDA.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../../General_Modules/.idea/General_Modules.iml" filepath="$PROJECT_DIR$/../../../General_Modules/.idea/General_Modules.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../NaiveBayes/.idea/NaiveBayes.iml" filepath="$PROJECT_DIR$/../NaiveBayes/.idea/NaiveBayes.iml" />
+      <module fileurl="file://$USER_HOME$/PycharmProjects/email-checker/.idea/email-checker.iml" filepath="$USER_HOME$/PycharmProjects/email-checker/.idea/email-checker.iml" />
+      <module fileurl="file://$USER_HOME$/machinelearning/em-git/gmm/.idea/gmm.iml" filepath="$USER_HOME$/machinelearning/em-git/gmm/.idea/gmm.iml" />
+    </modules>
+  </component>
+</project>
+
